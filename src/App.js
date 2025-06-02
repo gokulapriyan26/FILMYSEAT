@@ -3,7 +3,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HomePage from './pages/HomePage';
-import BookingPage from './pages/BookingPage';
+import BookingPage from './pages/BookingPage.jsx';
 import NotFoundPage from './pages/NotFoundPage'; // Optional
 import './App.css'; // Optional: for global styles
 
